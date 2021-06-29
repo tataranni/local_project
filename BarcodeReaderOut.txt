@@ -1,0 +1,3 @@
+serialNumberNl;T175-IT1-2021-056
+GlobalId;6AGC102559
+FinishGood;1030912021

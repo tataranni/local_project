@@ -1,0 +1,1 @@
+nameParametro=Test_Aborted;type=10;value=Aborted;lower=0;upper=0;
